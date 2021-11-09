@@ -66,7 +66,7 @@ class integrator():
                 Fy = C*uy
                 Fz = C*uz
 
-                Vx=
+                Vx= dt/2 * (F0 + F1
                 Vy=
                 Vz=
                 
